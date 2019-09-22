@@ -1,4 +1,5 @@
 module Findable
+  module ClassMethods
   
   @@all = all
   
